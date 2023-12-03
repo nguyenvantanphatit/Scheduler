@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&display=swap');
+
+.invoice-form {
+  width: 700px;
+  margin: 40px 74px;
+}
+
+.invoice-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.invoice-header-sub {
+  font-size: 32px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 44px;
+  color: #000000;
+  margin-bottom: 8px;
+}
+.invoice-header-sub-h2 {
+  font-size: 48px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 65px;
+  color: #000000;
+  margin-top: 8px;
+}
+.invoice-title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.invoice-sub {
+  font-size: 32px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 44px;
+  color: #000000;
+}
+
+.invoice-sub-h2 {
+  font-size: 32px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 44px;
+  color: #000000;
+}
+
+.invoice-bottom {
+  display: flex;
+  justify-content: space-between;
+}
+
+.invoice-sub {
+  font-size: 32px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 44px;
+  color: #000000;
+}
+
+.invoice-sub-h2 {
+  font-size: 32px;
+  font-family: 'Nunito', sans-serif;
+  line-height: 44px;
+  color: #000000;
+}
+.invoice-line-header {
+  border-top: 1px solid #000000;
+}
+
+.invoice-line-bottom {
+  border-top: 1px dashed #000000;
+}
